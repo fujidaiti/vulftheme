@@ -1,0 +1,85 @@
+* Vulf Palette *
+
+#A2BCDD Fugue Blue
+#D09187 Fearless Red
+#162741 Fearless Neby
+#E8BD9D MFC Yellow
+#485437 Beautiful Olive
+#000000 Dart Black
+#742021 Theo Wine
+
+* Shades of Fugue Blue *
+
+#090B0D
+#1D2127
+#343D48
+#65758A
+#7E93AD
+#879DB9
+#9DB6D7
+#A2BCDD Base
+#B9CDE8
+#D2E0F4
+#ECF4FF
+
+* Shades of Fearless Pink *
+
+#261B19
+#47322E
+#8A6159
+#AD7A71 
+#B88177
+#D09287 Base
+#DC9A8F
+#E7A296
+#F3BCB3
+#FFD8D1
+
+* Shades of Fearless Navy *
+
+#05090F
+#0A111D
+#162741
+#1C3051
+#2F5189
+#325793
+#3B67AE
+#4F7EC9
+#6696E4
+#80B1FF
+
+* Shades of First Car Yellow *
+
+#261F1A
+#473931
+#8A6F5D
+#BD9880
+#D1A88E
+#DCB195
+#E8BD9D
+#FACFB3
+#FFD9C2
+
+* Shades of Beautiful Green *
+
+#0D0F0A
+#242A1B
+#3C462D
+#485437
+#596844
+#67784E
+#849A64
+#A5BC85
+#C7DDA9
+#ECFFD1
+
+* Shades of Theo Red *
+
+#000000
+#461314
+#742022
+#8B2729
+#BA3436
+#D14649
+#E85B5E
+#FF7375
